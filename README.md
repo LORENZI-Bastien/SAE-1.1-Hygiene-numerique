@@ -25,4 +25,3 @@ Projet en autonomie.
 
 - [Certificat Cisco](Networking_Basics_Badge20241115-24-3ab3nj.pdf)
 - [Badge Networking Basics](networking-basics.png)
-- [Code d’intégration du badge](Certif%20CISCO%20code.odt)
