@@ -1,27 +1,31 @@
-# SAÉ 1.1 — Hygiène numérique
+# SAÉ 1.1 · Hygiène numérique
 
-Projet de première année de BUT Réseaux et Télécommunications.
+> Initiation aux fondamentaux des réseaux, validée par le badge Cisco Networking Basics.
 
-## Présentation
+| | |
+|---|---|
+| **Formation** | BUT Réseaux et Télécommunications, Montbéliard |
+| **Année** | 1<sup>re</sup> année, semestre 1 |
+| **Organisation** | Travail individuel |
+| **Outils et notions** | `Cisco` `Networking Basics` `Hygiène numérique` |
 
-Une initiation aux fondamentaux des réseaux, accompagnée du badge Cisco Networking Basics.
+## Objectif
 
-## Contenu documenté
+Acquérir les bases des réseaux informatiques et des bonnes pratiques numériques, puis les valider avec le parcours en ligne **Cisco Networking Basics**.
 
-Le dépôt contient le badge Networking Basics, le certificat Cisco et le fichier permettant d’intégrer le badge Credly.
+## Résultat
 
-## Outils et notions
+Badge Cisco Networking Basics obtenu en novembre 2024.
 
-- Cisco
-- Networking Basics
+<p align="center"><img src="certificat/badge-networking-basics.png" alt="Badge Cisco Networking Basics" width="180"></p>
 
-## Organisation
+## Contenu du dépôt
 
-Projet en autonomie.
+| Fichier | Description |
+|---|---|
+| [`certificat/certificat-cisco-networking-basics.pdf`](certificat/certificat-cisco-networking-basics.pdf) | Certificat Cisco |
+| [`certificat/badge-networking-basics.png`](certificat/badge-networking-basics.png) | Badge Networking Basics |
 
-[Mon portfolio](https://wonderful-chebakia-f83e9d.netlify.app/#projets)
+---
 
-## Fichiers du projet
-
-- [Certificat Cisco](Networking_Basics_Badge20241115-24-3ab3nj.pdf)
-- [Badge Networking Basics](networking-basics.png)
+<sub>Bastien Lorenzi · BUT Réseaux et Télécommunications, parcours cybersécurité · [Portfolio](https://wonderful-chebakia-f83e9d.netlify.app/#projets) · [Profil GitHub](https://github.com/LORENZI-Bastien)</sub>
